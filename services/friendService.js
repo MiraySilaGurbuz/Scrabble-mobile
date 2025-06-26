@@ -2,7 +2,7 @@ import axios from "axios";
 import FriendModel from "../models/FriendModel";
 import { auth } from '../firebase';
 
-const DATABASE_URL = "https://scrabbleyeni-default-rtdb.firebaseio.com";
+const DATABASE_URL = "your_url";
 
 export async function getAllFriends(userId) {
   try {
