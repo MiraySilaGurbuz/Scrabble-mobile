@@ -3,7 +3,7 @@ import LetterModel from "../models/LetterModel";
 import HarfOyuncuMapModel from "../models/HarfOyuncuMapModel";
 import {TumBagliHarfler, TumKelimeler, TumKelimelerPuanlamaIcin} from "../services/gameService";
 
-const DATABASE_URL = "https://scrabbleyeni-default-rtdb.firebaseio.com";
+const DATABASE_URL = "your_url";
 
 export const addMultipleTurkishLetters = async () => {
   const boardData = [
