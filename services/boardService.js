@@ -1,7 +1,7 @@
 import axios from "axios";
 import BoardModel from "../models/BoardModel";
 
-const DATABASE_URL = "https://scrabbleyeni-default-rtdb.firebaseio.com";
+const DATABASE_URL = "your_url";
 
 export const addMultipleBoards = async () => {
   const boardData = [
