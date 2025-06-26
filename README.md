@@ -23,5 +23,5 @@ satırındaki your_url nin yerine yapıştırmalısınız. Oyun için gerekli T�
 
 //addMultipleTurkishLetters();
 
-satırlarını yorum satırından çıkarıp projenizi bir kere başlatınız. Ayrıntılar ve sorularınız için iletişime geçiniz.
+satırlarını yorum satırından çıkarıp projenizi bir kere başlatınız. Proje görsellerine projeGorselleri dosyası altından ulaşabilirsiniz. Ayrıntılar ve sorularınız için iletişime geçiniz.
 Email: miraysilagurbuz@gmail.com
