@@ -18,7 +18,9 @@ const DATABASE_URL = "your_url";
 satırındaki your_url nin yerine yapıştırmalısınız. Oyun için gerekli Türkçe harfler, harf torbası, standart oyun tahtası yapısı gibi genel verilerin yüklenebilmesi için App.js dosyasındaki 
 
 //addMultipleBoards();
+
 //addMultipleEnglishLetters();
+
 //addMultipleTurkishLetters();
 
 satırlarını yorum satırından çıkarıp projenizi bir kere başlatınız. Ayrıntılar ve sorularınız için iletişime geçiniz.
